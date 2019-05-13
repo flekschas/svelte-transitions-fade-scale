@@ -1,0 +1,41 @@
+{
+  "name": "svelte-transitions-fade-scale",
+  "version": "1.0.0",
+  "description": "Fade and scale transition plugin for Svelte",
+  "main": "index.js",
+  "module": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "prepublish": "npm run lint && npm run build",
+    "lint": "eslint src"
+  },
+  "files": [
+    "index.js",
+    "module.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flekschas/svelte-transitions-fade-scale.git"
+  },
+  "keywords": [
+    "svelte",
+    "transitions",
+    "css",
+    "animation",
+    "fade",
+    "scale"
+  ],
+  "author": "Fritz Lekschas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flekschas/svelte-transitions-fade-scale/issues"
+  },
+  "homepage": "https://github.com/flekschas/svelte-transitions-fade-scale#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-import": "^2.2.0",
+    "rollup": "^1.11.3",
+    "rollup-plugin-buble": "^0.19.6"
+  }
+}
