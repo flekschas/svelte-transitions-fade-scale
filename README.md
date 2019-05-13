@@ -1,6 +1,6 @@
 # svelte-transitions-fade-scale
 
-A transition plugin for [Svelte](https://svelte.technology) that fades and scales in an element in parallel. [Demo](https://svelte.dev/repl/de8970d53ce040159aba167c0a4af6ef?version=3.2.2)
+A transition plugin for [Svelte](https://svelte.dev) that fades and scales in an element in parallel. [Demo](https://svelte.dev/repl/de8970d53ce040159aba167c0a4af6ef?version=3.2.2)
 
 ![fade-scale](https://user-images.githubusercontent.com/932103/57627484-1458f900-7566-11e9-9294-edb3f1bd2529.gif)
 
